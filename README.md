@@ -14,7 +14,7 @@ A multithreading synchronization project built in C as part of the **42 curricul
 ## Installation & Usage 💻
 **1. Clone the Repository**
 ```
-git clone https://github.com/yourusername/philosophers.git
+git clone https://github.com/Ali-Fayad/philosophers.git
 cd philosophers
 ```
 
@@ -55,7 +55,7 @@ This runs a simulation with 5 philosophers, where each philosopher dies if they 
 * **Precision timing functions** for accurate simulation
 
 ## Authors ✨
-* [Your Name]
+* [Ali-Fayad](https://github.com/Ali-Fayad/)
 
 ## License 📜
 This project is for educational purposes and follows **42 School guidelines**.
